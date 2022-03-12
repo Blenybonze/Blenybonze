@@ -6,7 +6,7 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blenybonze&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-## Eu estou trabalhando com:
+## Estou trabalhando com:
 <div style="display: inline_block"><br>
   <img align="center" alt="bleny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="bleny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -15,7 +15,7 @@
   <img align="center" alt="bleny-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
 </div>
   
-## Também Estudo diariamente: 
+## Também estudo diariamente: 
 <div style="display: inline_block"><br>
   <img align="center" alt="bleny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="bleny-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
