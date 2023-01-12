@@ -1,19 +1,13 @@
-# Olá, sou desenvolvedor front end(ReactJs|Ts)
+# Olá, sou desenvolvedor front end
 
-<div align="center">
-  <a href="https://github.com/blenybonze">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=blenybonze&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blenybonze&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
 ## Estou trabalhando com:
 <div style="display: inline_block"><br>
-  <img align="center" alt="bleny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="bleny-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="bleny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="bleny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="bleny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="bleny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="bleny-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="bleny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="bleny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
 ## Também estudo diariamente: 
